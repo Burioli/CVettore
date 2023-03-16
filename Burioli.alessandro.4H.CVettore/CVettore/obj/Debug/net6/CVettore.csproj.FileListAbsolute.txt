@@ -1,0 +1,5 @@
+C:\Users\PC06\Desktop\CVettore\obj\Debug\net6\CVettore.csproj.AssemblyReference.cache
+C:\Users\PC06\Desktop\CVettore\obj\Debug\net6\CVettore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC06\Desktop\CVettore\obj\Debug\net6\CVettore.AssemblyInfoInputs.cache
+C:\Users\PC06\Desktop\CVettore\obj\Debug\net6\CVettore.AssemblyInfo.cs
+C:\Users\PC06\Desktop\CVettore\obj\Debug\net6\CVettore.csproj.CoreCompileInputs.cache
